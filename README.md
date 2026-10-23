@@ -69,5 +69,5 @@ This workspace contains implementations for all experimental modules defined acr
 
 <p align="center">
   📚 <b>Fundamentals of Machine Learning Lab Repository</b> <br>
-  Maintained by <b>Kaarthikeya Chitta</b> • Department of Computer Science and Engineering
+  Maintained by <b>Pavana Sai Duvvuri</b> • Department of Computer Science and Engineering
 </p>
